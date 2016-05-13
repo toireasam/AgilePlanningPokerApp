@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="iOS/AgilePlanningPoker.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Activity2.cs">
+    <Files>
+      <File FileName="Droid/Activity2.cs" Line="22" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AgilePlanningPoker.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

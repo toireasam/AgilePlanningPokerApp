@@ -1,0 +1,5 @@
+/Users/toireasam/Projects/AgilePlanningPoker/AgilePlanningPoker/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/toireasam/Projects/AgilePlanningPoker/AgilePlanningPoker/bin/Debug/AgilePlanningPoker.dll.mdb
+/Users/toireasam/Projects/AgilePlanningPoker/AgilePlanningPoker/bin/Debug/AgilePlanningPoker.dll
+/Users/toireasam/Projects/AgilePlanningPoker/AgilePlanningPoker/obj/Debug/AgilePlanningPoker.dll
+/Users/toireasam/Projects/AgilePlanningPoker/AgilePlanningPoker/obj/Debug/AgilePlanningPoker.dll.mdb
